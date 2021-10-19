@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XML>
+    <student>
+        <averMark>0.0</averMark>
+        <math>6</math>
+        <name>Johny Thanh</name>
+        <phys>10</phys>
+        <studentID>19IT30</studentID>
+    </student>
+    <student>
+        <averMark>0.0</averMark>
+        <math>10</math>
+        <name>Stive Thinh</name>
+        <phys>6</phys>
+        <studentID>19IT31</studentID>
+    </student>
+</XML>
